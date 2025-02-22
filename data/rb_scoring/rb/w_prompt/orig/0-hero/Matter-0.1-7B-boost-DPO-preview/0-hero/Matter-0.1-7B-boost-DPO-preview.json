@@ -1,0 +1,1 @@
+{"accuracy": 0.7064568638090071, "num_prompts": 1843, "model": "0-hero/Matter-0.1-7B-boost-DPO-preview", "ref_model": "0-hero/Matter-0.1-7B-boost", "tokenizer": "0-hero/Matter-0.1-7B-boost-DPO-preview", "chat_template": null, "extra_results": null}

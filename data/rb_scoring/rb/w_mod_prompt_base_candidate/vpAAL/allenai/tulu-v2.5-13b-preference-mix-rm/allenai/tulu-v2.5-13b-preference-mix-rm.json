@@ -1,0 +1,1 @@
+{"accuracy": 0.7992403689636463, "num_prompts": 1843, "model": "allenai/tulu-v2.5-13b-preference-mix-rm", "ref_model": null, "tokenizer": "allenai/tulu-v2.5-13b-preference-mix-rm", "chat_template": null, "extra_results": null}

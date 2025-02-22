@@ -1,0 +1,1 @@
+{"accuracy": 0.865979381443299, "num_prompts": 1843, "model": "NCSOFT/Llama-3-OffsetBias-RM-8B", "ref_model": null, "tokenizer": "NCSOFT/Llama-3-OffsetBias-RM-8B", "chat_template": null, "extra_results": null}

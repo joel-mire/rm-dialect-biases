@@ -1,0 +1,18 @@
+{
+    "weqweasdas/RM-Gemma-7B": 0.07407830179802798,
+    "stabilityai/stablelm-2-12b-chat": 0.058962181966309556,
+    "0-hero/Matter-0.1-7B-boost-DPO-preview": 0.0622815514795307,
+    "stabilityai/stablelm-zephyr-3b": 0.05483760880834546,
+    "Ray2333/Gemma-2B-rewardmodel-baseline": 0.06872261869037974,
+    "NousResearch/Nous-Hermes-2-Mistral-7B-DPO": 0.053730819372095465,
+    "Ray2333/reward-model-Mistral-7B-instruct-Unified-Feedback": 0.07585034593329643,
+    "upstage/SOLAR-10.7B-Instruct-v1.0": 0.05589173490878333,
+    "Ray2333/GRM-llama3-8B-distill": 0.06481172905318956,
+    "openbmb/Eurus-RM-7b": 0.06537213767137759,
+    "sfairXC/FsfairX-LLaMA3-RM-v0.1": 0.05548542954860325,
+    "NCSOFT/Llama-3-OffsetBias-RM-8B": 0.05546834786818887,
+    "weqweasdas/RM-Mistral-7B": 0.06872261869037974,
+    "allenai/llama-3-tulu-2-8b-uf-mean-rm": 0.050119109707758736,
+    "allenai/tulu-v2.5-13b-preference-mix-rm": 0.07147251702413654,
+    "allenai/tulu-2-dpo-7b": 0.05071307570895859
+}

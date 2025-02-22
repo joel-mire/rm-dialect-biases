@@ -1,0 +1,1 @@
+{"accuracy": 0.705371676614216, "num_prompts": 1843, "model": "Ray2333/Gemma-2B-rewardmodel-baseline", "ref_model": null, "tokenizer": "Ray2333/Gemma-2B-rewardmodel-baseline", "chat_template": null, "extra_results": null}

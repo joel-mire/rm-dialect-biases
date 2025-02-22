@@ -1,0 +1,1 @@
+{"accuracy": 0.7010309278350515, "num_prompts": 1843, "model": "allenai/llama-3-tulu-2-8b-uf-mean-rm", "ref_model": null, "tokenizer": "allenai/llama-3-tulu-2-8b-uf-mean-rm", "chat_template": null, "extra_results": null}

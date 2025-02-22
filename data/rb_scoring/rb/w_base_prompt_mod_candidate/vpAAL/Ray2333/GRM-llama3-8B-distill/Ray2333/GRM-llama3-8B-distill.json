@@ -1,0 +1,1 @@
+{"accuracy": 0.8133478024959305, "num_prompts": 1843, "model": "Ray2333/GRM-llama3-8B-distill", "ref_model": null, "tokenizer": "Ray2333/GRM-llama3-8B-distill", "chat_template": null, "extra_results": null}

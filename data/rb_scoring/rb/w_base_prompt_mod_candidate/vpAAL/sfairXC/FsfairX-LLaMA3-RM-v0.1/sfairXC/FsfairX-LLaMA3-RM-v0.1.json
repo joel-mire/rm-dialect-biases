@@ -1,0 +1,1 @@
+{"accuracy": 0.8220293000542593, "num_prompts": 1843, "model": "sfairXC/FsfairX-LLaMA3-RM-v0.1", "ref_model": null, "tokenizer": "sfairXC/FsfairX-LLaMA3-RM-v0.1", "chat_template": null, "extra_results": null}

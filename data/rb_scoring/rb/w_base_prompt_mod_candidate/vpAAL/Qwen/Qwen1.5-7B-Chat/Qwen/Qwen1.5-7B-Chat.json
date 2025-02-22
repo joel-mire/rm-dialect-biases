@@ -1,0 +1,1 @@
+{"accuracy": 0.6451437873033098, "num_prompts": 1843, "model": "Qwen/Qwen1.5-7B-Chat", "ref_model": "Qwen/Qwen1.5-7B", "tokenizer": "Qwen/Qwen1.5-7B-Chat", "chat_template": null, "extra_results": null}

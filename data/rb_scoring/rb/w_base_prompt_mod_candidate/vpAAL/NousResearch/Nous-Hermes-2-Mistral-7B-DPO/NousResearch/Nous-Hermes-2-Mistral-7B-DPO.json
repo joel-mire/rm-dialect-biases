@@ -1,0 +1,1 @@
+{"accuracy": 0.7140531741725448, "num_prompts": 1843, "model": "NousResearch/Nous-Hermes-2-Mistral-7B-DPO", "ref_model": "teknium/OpenHermes-2.5-Mistral-7B", "tokenizer": "NousResearch/Nous-Hermes-2-Mistral-7B-DPO", "chat_template": null, "extra_results": null}

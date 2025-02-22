@@ -1,0 +1,1 @@
+{"accuracy": 0.8035811177428106, "num_prompts": 1843, "model": "openbmb/Eurus-RM-7b", "ref_model": null, "tokenizer": "openbmb/Eurus-RM-7b", "chat_template": "mistral", "extra_results": null}

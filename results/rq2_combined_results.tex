@@ -1,0 +1,32 @@
+\begin{table*}[htp]
+\centering
+\small
+\begin{tabular}{lcc|cc}
+\toprule
+ & \multicolumn{2}{c}{\textbf{Effect Size (d)}} & \multicolumn{2}{c}{\textbf{Correlation (r)}} \\
+\cmidrule(lr){2-3} \cmidrule(lr){4-5}
+\textbf{Model} & \textbf{RB} & \textbf{DG} & \textbf{RB} & \textbf{DG} \\
+\midrule
+weqweasdas/RM-Mistral-7B & 1.03* & 0.08* & -0.11* & -0.11* \\
+openbmb/Eurus-RM-7b & 0.98* & 0.16* & -0.13* & -0.28* \\
+allenai/llama-3-tulu-2-8b-uf-mean-rm & 0.93* & -0.03 & -0.2* & -0.11* \\
+Ray2333/GRM-llama3-8B-distill & 0.87* & -0.26* & -0.17* & 0.06* \\
+internlm/internlm2-20b-reward & 0.78* & -0.05* & -0.13* & -0.19* \\
+Ray2333/reward-model-Mistral-7B-instruct-Unified-Feedback & 0.73* & -0.11* & -0.19* & -0.17* \\
+sfairXC/FsfairX-LLaMA3-RM-v0.1 & 0.71* & 0.05* & -0.1* & -0.15* \\
+NCSOFT/Llama-3-OffsetBias-RM-8B & 0.68* & 0.25* & -0.0 & -0.25* \\
+allenai/tulu-v2.5-13b-preference-mix-rm & 0.65* & -0.05* & 0.04* & 0.13* \\
+NousResearch/Nous-Hermes-2-Mistral-7B-DPO & 0.62* & -0.14* & -0.08* & 0.05* \\
+internlm/internlm2-1\_8b-reward & 0.61* & -0.01 & -0.09* & -0.17* \\
+Ray2333/Gemma-2B-rewardmodel-baseline & 0.58* & -0.17* & -0.16* & 0.07* \\
+0-hero/Matter-0.1-7B-boost-DPO-preview & 0.57* & -0.44* & 0.07* & 0.24* \\
+CIR-AMS/BTRM\_Qwen2\_7b\_0613 & 0.49* & 0.33* & -0.12* & -0.32* \\
+allenai/tulu-2-dpo-7b & 0.48* & -0.49* & 0.04* & 0.33* \\
+upstage/SOLAR-10.7B-Instruct-v1.0 & 0.47* & -0.65* & 0.21* & 0.38* \\
+Qwen/Qwen1.5-7B-Chat & 0.44* & 0.34* & 0.26* & 0.11* \\
+\bottomrule
+\end{tabular}
+\normalsize
+\caption{Combined Effect Size and Correlation Results by Model and Dataset}
+\label{tab:combined_results}
+\end{table*}

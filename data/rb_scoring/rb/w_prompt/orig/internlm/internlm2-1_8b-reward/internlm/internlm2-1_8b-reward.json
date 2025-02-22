@@ -1,0 +1,1 @@
+{"accuracy": 0.8252848616386327, "num_prompts": 1843, "model": "internlm/internlm2-1_8b-reward", "ref_model": null, "tokenizer": "internlm/internlm2-1_8b-reward", "chat_template": null, "extra_results": null}
