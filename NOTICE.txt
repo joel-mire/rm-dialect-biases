@@ -1,0 +1,5 @@
+This repository includes portions of the MT Bench dataset, originally licensed under Apache 2.0.
+Modifications made beyond those already made in the RewardBench dataset:
+- filtered out any code/programming examples, as detected by GPT4o
+- added AAL translations based on VALUE- and PhonATe-based machine-translation strategies
+Original license: https://www.apache.org/licenses/LICENSE-2.0
